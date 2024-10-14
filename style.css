@@ -6,18 +6,18 @@
     margin-bottom: 50px;
 }
 
-.img-cont{
+/* .img-cont{
     margin-left: 60px;
     margin-top: 30px;
-}
+} */
 
-.form-container{
+/* .form-container{
     margin-left: 80px;
-}
+} */
 
 .div-1{
-    padding: 40px;
-    margin-left: 150px;
+    padding: 15px;
+    margin-bottom: 20px;
 }
 
 .footer-div{
@@ -30,14 +30,9 @@
 
 .service-container{
     padding: 5px;
-    margin-top: 1000px;
+    /* margin-top: 1000px; */
 }
 
 .contact-us{
     margin-top: 50px;
-}
-
-.header-cls{
-    margin-left: 120px;
-    margin-right: 120px;
 }
